@@ -1,3 +1,5 @@
+this is a simple CRUD application built using react and redux to manage clients details
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
